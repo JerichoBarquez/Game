@@ -1,6 +1,6 @@
 package com.project.game.narrasoft;
 
-public class PlayerA extends Game{
+public class PlayerA extends Player{
 
 	@Override
 	public Choice playerChoice() {

@@ -1,9 +1,9 @@
 package com.project.game.narrasoft;
 
-public abstract class Game {
+public abstract class Player {
 	
 	enum Choice {ROCK, PAPER ,SCISSOR}
-	enum Player {A, B}
+	enum Play {A, B}
 	
 	public abstract Choice playerChoice();
     

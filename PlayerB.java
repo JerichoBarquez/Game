@@ -2,7 +2,7 @@ package com.project.game.narrasoft;
 
 import java.util.Random;
 
-public class PlayerB extends Game {
+public class PlayerB extends Player {
 	private Random random;
 	public PlayerB() {
 		random = new Random();
